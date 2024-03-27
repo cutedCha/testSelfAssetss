@@ -1,0 +1,69 @@
+
+fish_101.png
+size: 112,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huabanyu_eye_l
+  rotate: false
+  xy: 24, 51
+  size: 18, 17
+  orig: 18, 19
+  offset: 0, 2
+  index: -1
+huabanyu_eye_r
+  rotate: false
+  xy: 2, 49
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+huabanyu_fin_r
+  rotate: false
+  xy: 67, 47
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+huabanyu_lip_l_down
+  rotate: false
+  xy: 44, 56
+  size: 21, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+huabanyu_lip_l_up
+  rotate: true
+  xy: 93, 56
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+huabanyu_lip_r_down
+  rotate: true
+  xy: 102, 94
+  size: 15, 7
+  orig: 16, 8
+  offset: 1, 0
+  index: -1
+huabanyu_lip_r_up
+  rotate: false
+  xy: 71, 59
+  size: 20, 20
+  orig: 20, 21
+  offset: 0, 1
+  index: -1
+huabanyu_mainbody
+  rotate: false
+  xy: 2, 70
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+huabanyu_tipfin_2
+  rotate: true
+  xy: 71, 81
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

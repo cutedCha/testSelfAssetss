@@ -1,0 +1,41 @@
+
+fish_202.png
+size: 108,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+05_zhangyu_1
+  rotate: true
+  xy: 2, 4
+  size: 51, 97
+  orig: 51, 97
+  offset: 0, 0
+  index: -1
+05_zhangyu_2
+  rotate: false
+  xy: 65, 62
+  size: 40, 43
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+05_zhangyu_3
+  rotate: true
+  xy: 2, 57
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+05_zhangyu_4
+  rotate: false
+  xy: 36, 91
+  size: 27, 14
+  orig: 30, 17
+  offset: 2, 1
+  index: -1
+05_zhangyu_6
+  rotate: false
+  xy: 2, 93
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1

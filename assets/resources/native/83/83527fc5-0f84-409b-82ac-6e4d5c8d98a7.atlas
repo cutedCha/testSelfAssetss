@@ -1,0 +1,34 @@
+
+fish_201.png
+size: 104,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04_zishuimu_1
+  rotate: false
+  xy: 2, 63
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+04_zishuimu_2
+  rotate: true
+  xy: 56, 9
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+04_zishuimu_3
+  rotate: true
+  xy: 2, 15
+  size: 46, 52
+  orig: 59, 52
+  offset: 1, 0
+  index: -1
+04_zishuimu_4
+  rotate: false
+  xy: 2, 2
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1

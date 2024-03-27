@@ -1,0 +1,48 @@
+
+fish_601.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_shayu_01
+  rotate: false
+  xy: 2, 24
+  size: 191, 118
+  orig: 191, 118
+  offset: 0, 0
+  index: -1
+16_shayu_02
+  rotate: false
+  xy: 195, 128
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+19_shayu_body
+  rotate: false
+  xy: 2, 144
+  size: 235, 144
+  orig: 235, 144
+  offset: 0, 0
+  index: -1
+19_shayu_eyeball
+  rotate: false
+  xy: 2, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+19_shayu_eyelid
+  rotate: false
+  xy: 239, 271
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+19_shayu_pupil
+  rotate: false
+  xy: 239, 257
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1

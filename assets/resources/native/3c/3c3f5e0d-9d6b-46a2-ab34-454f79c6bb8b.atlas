@@ -1,0 +1,20 @@
+
+fish_502.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17_daheisha_00
+  rotate: false
+  xy: 2, 125
+  size: 239, 123
+  orig: 243, 182
+  offset: 4, 14
+  index: -1
+yanjing
+  rotate: true
+  xy: 243, 242
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

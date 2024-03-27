@@ -1,0 +1,34 @@
+
+fish_301.png
+size: 136,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+09_denglongyu 1
+  rotate: false
+  xy: 2, 37
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+09_denglongyu 2
+  rotate: true
+  xy: 110, 81
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+09_denglongyu 3
+  rotate: false
+  xy: 110, 66
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+09_denglongyu 4
+  rotate: false
+  xy: 110, 103
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+fish_604.png
+size: 392,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22_ankangwang_00
+  rotate: false
+  xy: 2, 2
+  size: 387, 252
+  orig: 387, 252
+  offset: 0, 0
+  index: -1
+22_ankangwang_01
+  rotate: true
+  xy: 83, 339
+  size: 50, 112
+  orig: 50, 112
+  offset: 0, 0
+  index: -1
+22_ankangwang_02
+  rotate: false
+  xy: 197, 336
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+22_ankangwang_03
+  rotate: true
+  xy: 222, 256
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+22_ankangwang_04
+  rotate: false
+  xy: 71, 266
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+22_ankangwang_05
+  rotate: true
+  xy: 304, 333
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+22_ankangwang_06
+  rotate: false
+  xy: 146, 263
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+22_ankangwang_07
+  rotate: false
+  xy: 32, 344
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+22_ankangwang_08
+  rotate: false
+  xy: 2, 362
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+22_ankangwang_09
+  rotate: false
+  xy: 2, 280
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1

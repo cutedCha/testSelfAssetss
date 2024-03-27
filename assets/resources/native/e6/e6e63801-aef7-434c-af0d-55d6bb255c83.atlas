@@ -1,0 +1,55 @@
+
+fish_603.png
+size: 368,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21_dinianyu_00
+  rotate: false
+  xy: 2, 274
+  size: 252, 92
+  orig: 252, 92
+  offset: 0, 0
+  index: -1
+21_dinianyu_01
+  rotate: false
+  xy: 2, 168
+  size: 173, 104
+  orig: 173, 104
+  offset: 0, 0
+  index: -1
+21_dinianyu_02
+  rotate: false
+  xy: 264, 20
+  size: 51, 118
+  orig: 51, 118
+  offset: 0, 0
+  index: -1
+21_dinianyu_03
+  rotate: false
+  xy: 264, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+21_dinianyu_05
+  rotate: false
+  xy: 2, 31
+  size: 124, 135
+  orig: 124, 135
+  offset: 0, 0
+  index: -1
+21_dinianyu_07
+  rotate: false
+  xy: 177, 140
+  size: 125, 132
+  orig: 125, 132
+  offset: 0, 0
+  index: -1
+21_dinianyu_09
+  rotate: true
+  xy: 128, 14
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fish_102.png
+size: 88,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanweiyu_eyeball
+  rotate: true
+  xy: 31, 68
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+yanweiyu_eyeblack
+  rotate: true
+  xy: 2, 77
+  size: 8, 9
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+yanweiyu_fin
+  rotate: true
+  xy: 51, 58
+  size: 27, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+yanweiyu_lip
+  rotate: false
+  xy: 13, 74
+  size: 16, 11
+  orig: 16, 12
+  offset: 0, 1
+  index: -1
+yanweiyu_mainbody
+  rotate: false
+  xy: 2, 3
+  size: 82, 53
+  orig: 83, 54
+  offset: 0, 1
+  index: -1

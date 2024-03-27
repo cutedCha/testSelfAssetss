@@ -1,0 +1,34 @@
+
+fish_403.png
+size: 196,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianyu_blackeye
+  rotate: false
+  xy: 178, 151
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+jianyu_eyelip
+  rotate: true
+  xy: 178, 159
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+jianyu_mainbody
+  rotate: false
+  xy: 2, 105
+  size: 174, 88
+  orig: 174, 88
+  offset: 0, 0
+  index: -1
+jianyu_whiteeye
+  rotate: true
+  xy: 178, 177
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

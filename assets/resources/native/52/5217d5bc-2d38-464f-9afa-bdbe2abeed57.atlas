@@ -1,0 +1,104 @@
+
+fish_602.png
+size: 312,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20_juxie_00
+  rotate: false
+  xy: 2, 185
+  size: 138, 125
+  orig: 145, 125
+  offset: 0, 0
+  index: -1
+20_juxie_01
+  rotate: false
+  xy: 142, 227
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+20_juxie_02
+  rotate: true
+  xy: 266, 2
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+20_juxie_03
+  rotate: true
+  xy: 278, 93
+  size: 64, 31
+  orig: 66, 34
+  offset: 1, 1
+  index: -1
+20_juxie_04
+  rotate: false
+  xy: 2, 83
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+20_juxie_05
+  rotate: false
+  xy: 142, 172
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+20_juxie_06
+  rotate: true
+  xy: 237, 68
+  size: 102, 39
+  orig: 102, 39
+  offset: 0, 0
+  index: -1
+20_juxie_07
+  rotate: true
+  xy: 256, 227
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+20_juxie_08
+  rotate: true
+  xy: 224, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+20_juxie_09
+  rotate: true
+  xy: 134, 76
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+20_juxie_10
+  rotate: false
+  xy: 2, 4
+  size: 117, 77
+  orig: 117, 77
+  offset: 0, 0
+  index: -1
+20_juxie_11
+  rotate: false
+  xy: 121, 29
+  size: 101, 45
+  orig: 101, 45
+  offset: 0, 0
+  index: -1
+20_juxie_12
+  rotate: true
+  xy: 103, 100
+  size: 83, 29
+  orig: 83, 29
+  offset: 0, 0
+  index: -1
+20_juxie_13
+  rotate: true
+  xy: 278, 159
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1

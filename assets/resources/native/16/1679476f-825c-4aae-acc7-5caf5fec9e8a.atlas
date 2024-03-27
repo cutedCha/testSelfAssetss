@@ -1,0 +1,146 @@
+
+fish_905.png
+size: 431,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: false
+  xy: 377, 113
+  size: 50, 51
+  orig: 64, 64
+  offset: 7, 6
+  index: -1
+huoxing01
+  rotate: false
+  xy: 301, 69
+  size: 74, 84
+  orig: 110, 104
+  offset: 13, 15
+  index: -1
+huoxing02
+  rotate: false
+  xy: 219, 155
+  size: 83, 84
+  orig: 110, 104
+  offset: 0, 8
+  index: -1
+huoxing03
+  rotate: true
+  xy: 2, 29
+  size: 99, 80
+  orig: 110, 104
+  offset: 11, 4
+  index: -1
+huoxing04
+  rotate: false
+  xy: 304, 166
+  size: 75, 73
+  orig: 110, 104
+  offset: 19, 11
+  index: -1
+huoxing05
+  rotate: false
+  xy: 124, 68
+  size: 81, 86
+  orig: 110, 104
+  offset: 8, 1
+  index: -1
+huoxing06
+  rotate: false
+  xy: 290, 11
+  size: 58, 56
+  orig: 110, 104
+  offset: 22, 16
+  index: -1
+huoxing07
+  rotate: false
+  xy: 120, 2
+  size: 81, 64
+  orig: 110, 104
+  offset: 1, 18
+  index: -1
+huoxing08
+  rotate: false
+  xy: 207, 76
+  size: 92, 77
+  orig: 110, 104
+  offset: 7, 10
+  index: -1
+huoxing09
+  rotate: false
+  xy: 124, 156
+  size: 93, 83
+  orig: 110, 104
+  offset: 17, 9
+  index: -1
+huoxing10
+  rotate: true
+  xy: 207, 3
+  size: 71, 81
+  orig: 110, 104
+  offset: 14, 7
+  index: -1
+yan_y
+  rotate: false
+  xy: 107, 82
+  size: 9, 18
+  orig: 12, 23
+  offset: 2, 1
+  index: -1
+yanpi_y
+  rotate: false
+  xy: 105, 51
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+yanpi_z
+  rotate: false
+  xy: 84, 102
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+yuchi_1
+  rotate: false
+  xy: 84, 74
+  size: 21, 26
+  orig: 23, 28
+  offset: 1, 1
+  index: -1
+yuchi_2
+  rotate: true
+  xy: 84, 35
+  size: 37, 19
+  orig: 39, 21
+  offset: 1, 1
+  index: -1
+zhadan_1
+  rotate: true
+  xy: 381, 188
+  size: 51, 42
+  orig: 53, 44
+  offset: 1, 1
+  index: -1
+zhadan_2
+  rotate: false
+  xy: 377, 69
+  size: 52, 42
+  orig: 54, 44
+  offset: 1, 1
+  index: -1
+zhadan_3
+  rotate: false
+  xy: 350, 6
+  size: 43, 61
+  orig: 45, 63
+  offset: 1, 1
+  index: -1
+zhuti
+  rotate: false
+  xy: 2, 130
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+fish_103.png
+size: 72,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_xiaochouyu
+  rotate: false
+  xy: 2, 30
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+03_xiaochouyu_eye
+  rotate: true
+  xy: 56, 42
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+03_xiaochouyu_fin
+  rotate: false
+  xy: 56, 56
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

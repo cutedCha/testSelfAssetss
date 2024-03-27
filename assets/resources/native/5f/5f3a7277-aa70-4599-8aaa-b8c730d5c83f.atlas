@@ -1,0 +1,55 @@
+
+fish_302.png
+size: 376,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_haigui_1
+  rotate: false
+  xy: 219, 149
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+10_haigui_4
+  rotate: false
+  xy: 243, 129
+  size: 18, 18
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+10_haigui_5
+  rotate: false
+  xy: 263, 139
+  size: 9, 8
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+10_haigui_6
+  rotate: false
+  xy: 219, 132
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+tui_hou_you
+  rotate: true
+  xy: 219, 208
+  size: 164, 153
+  orig: 164, 153
+  offset: 0, 0
+  index: -1
+tui_hou_zuo
+  rotate: true
+  xy: 324, 124
+  size: 82, 47
+  orig: 82, 53
+  offset: 0, 6
+  index: -1
+tui_qian_zuo
+  rotate: false
+  xy: 2, 147
+  size: 215, 225
+  orig: 215, 225
+  offset: 0, 0
+  index: -1

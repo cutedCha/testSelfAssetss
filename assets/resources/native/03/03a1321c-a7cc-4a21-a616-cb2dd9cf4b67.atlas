@@ -1,0 +1,27 @@
+
+fish_303.png
+size: 116,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_bianyu_1
+  rotate: true
+  xy: 90, 63
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+11_bianyu_3
+  rotate: false
+  xy: 2, 33
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+11_bianyu_4
+  rotate: false
+  xy: 90, 86
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
